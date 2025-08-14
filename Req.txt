@@ -1,0 +1,5 @@
+This model required update version of python
+pandas
+numpy 
+pickle 
+sicketlearn
